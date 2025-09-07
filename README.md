@@ -58,12 +58,4 @@ The game displays multiple-choice questions one by one, highlights correct/incor
 
 ---
 
-##  Future Improvements
-- Add a timer per question.  
-- Add different categories of questions.  
-- Store high scores in local storage.  
-- Add sound effects for correct/incorrect answers.
-
----
-
 
